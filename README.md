@@ -1,4 +1,4 @@
 # Hireful
-<h1>Make hiring the perfect candidate for your software positions a breeze!</h1>
+<p>Make hiring the perfect candidate for your software positions a breeze!</p>
 
 
