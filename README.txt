@@ -1,10 +1,15 @@
-<h1>Hireful</h1>
-<h4>Making hiring the perfect software engineering candidate a breeze!</h4>
-<p> Group Members </p>
-<ul>
-  <li>Jake</li>
-  <li>Anurag</li>
-  <li>Yanic</li>
-  <li>Andrew</li>
-  <li>Kartik</li>
-</ul>
+          Hireful
+- Open windows to be hired -
+
+Welcome to Hireful, we are here to
+allow employers and future employees
+the opportunity to hire and 
+apply online in the most simplest
+and fastest way possible, swiping right. 
+
+Organisation Members
+  Jake
+  Yanic
+  Kartik
+  Anurag
+  Andrew
