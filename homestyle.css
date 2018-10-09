@@ -1,0 +1,34 @@
+h1 {
+
+	background-color: #fffbf5 ;
+
+}
+
+button {
+
+	background-color: #4bde00 ;
+	height: 100px;
+	width: 175px;
+}
+
+/*French button*/
+#BF {
+
+	background-color: #4bde00;
+	height: 20px;
+	width: 75px;
+}
+
+/*Company Logo*/
+#I01 {
+
+	height: 100px;
+	width: 100px;
+}
+
+/*Large Home Image*/
+#I02 {
+
+	height: 750px;
+	width: 1500px;
+}
