@@ -1,12 +1,18 @@
+body {
+
+	background-color: gray;
+
+}
+
 h1 {
 
-	background-color: #fffbf5 ;
+	background-color: lightgray ;
 
 }
 
 button {
 
-	background-color: #4bde00 ;
+	background-color: lightgray ;
 	height: 100px;
 	width: 175px;
 }
@@ -14,14 +20,14 @@ button {
 /*French button*/
 #Bfrench {
 
-	background-color: #4bde00;
+	background-color: lightgray;
 	height: 20px;
 	width: 75px;
 }
 
 #Blogin {
 
-	background-color: lightblue ;
+	background-color: #7FFF00 ;
 	height: 100px;
 	width: 200px;
 
