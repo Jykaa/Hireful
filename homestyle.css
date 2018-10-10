@@ -12,11 +12,19 @@ button {
 }
 
 /*French button*/
-#BF {
+#Bfrench {
 
 	background-color: #4bde00;
 	height: 20px;
 	width: 75px;
+}
+
+#Blogin {
+
+	background-color: lightblue ;
+	height: 100px;
+	width: 200px;
+
 }
 
 /*Company Logo*/
