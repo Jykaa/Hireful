@@ -3,42 +3,6 @@ body {
 	background-color: gray;
 }
 
-h1 {
-
-	background-color: lightgray ;
-
-}
-
-button {
-
-	background-color: lightgray ;
-	height: 100px;
-	width: 175px;
-}
-
-/*French button*/
-#Bfrench {
-
-	background-color: lightgray;
-	height: 20px;
-	width: 75px;
-}
-
-#membership {
-
-	background-color: #7FFF00 ;
-	height: 100px;
-	width: 200px;
-
-}
-
-/*Company Logo*/
-#I01 {
-
-	height: 100px;
-	width: 100px;
-}
-
 /*Large Home Image*/
 #I02 {
 
