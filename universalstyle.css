@@ -7,7 +7,7 @@ h1 {
 button {
 
 	background-color: lightgray ;
-	height: 100px;
+	height: 60px;
 	width: 175px;
 }
 
@@ -22,7 +22,7 @@ button {
 #membership {
 
 	background-color: #7FFF00 ;
-	height: 100px;
+	height: 60px;
 	width: 200px;
 
 }
@@ -30,6 +30,6 @@ button {
 /*Company Logo*/
 #I01 {
 
-	height: 100px;
+	height: 90px;
 	width: 100px;
 }
