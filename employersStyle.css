@@ -1,0 +1,13 @@
+*{
+
+	padding: 0;
+	margin: 0;
+}
+
+header {
+
+	background-image: url("backgroundImages/employersPageBackground.PNG");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}

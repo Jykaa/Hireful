@@ -1,29 +1,28 @@
+.main-nav {
 
-button {
+	float: right;
+	padding: 0px 15px;
+	margin-top: 15px;
 
-	background-color: lightgray ;
-	height: 60px;
-	width: 175px;
 }
 
-/*French button*/
-#Bfrench {
+.main-nav li{
 
-	background-color: lightgray;
-	height: 20px;
-	width: 75px;
+	display: inline-block;
+	padding: 10px 13px; 
 }
 
-#membership {
+.main-nav li a {
 
-	background-color: #7FFF00 ;
-	height: 60px;
-	width: 200px;
+	color: black;
+	border: 1px solid black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Trebuchet MS Bold";
 }
 
-/*Company Logo*/
-#I01 {
+.main-nav li a:hover {
 
-	height: 90px;
-	width: 100px;
+	border: 1px solid white;
+	color: white;
 }
