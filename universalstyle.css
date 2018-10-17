@@ -1,10 +1,13 @@
+.row {
+
+	background-color:#adadad;
+}
+
 .main-nav {
 
 	float: right;
 	padding: 0px 0px 10px;
 	margin-top: 0px;
-	background-color: black;
-
 }
 
 .main-nav li{
@@ -26,4 +29,15 @@
 
 .main-nav li a:hover {
 
+}
+
+.logo {
+
+	height: 60px;
+	width: 60px;
+}
+
+.row {
+
+	background-color:#adadad;
 }
