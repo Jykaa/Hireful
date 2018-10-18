@@ -1,5 +1,8 @@
 .row {
 
+	/*This will move tool bar to left of screen
+	/*position: fixed;*/
+
 	background-color: white;
 	box-shadow: 5px 5px 3px #888888;
 }
@@ -8,8 +11,7 @@
 
 	float: right;
 	padding: 0px 0px 10px;
-	margin-top: 0px;
-}
+	margin-top: 0px;}
 
 .main-nav li{
 
@@ -21,7 +23,6 @@
 .main-nav li a {
 
 	color: black;
-	/*border: 1px solid white;*/
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Roboto";
@@ -36,4 +37,23 @@
 
 	height: 60px;
 	width: 60px;
+}
+
+h2 {
+
+	font-family: "Roboto";
+	font-size: 60px;
+	color: black;
+}
+
+h3 {
+
+	font-family: "Roboto";
+	color: #8f8f8f;
+	font-size:40px;
+}
+
+p{
+
+	font-family: "Roboto";
 }
