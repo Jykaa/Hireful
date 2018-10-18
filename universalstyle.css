@@ -1,6 +1,7 @@
 .row {
 
-	background-color:#adadad;
+	background-color: white;
+	box-shadow: 5px 5px 3px #888888;
 }
 
 .main-nav {
@@ -19,11 +20,11 @@
 
 .main-nav li a {
 
-	color: white;
-	border: 1px solid white;
+	color: black;
+	/*border: 1px solid white;*/
 	text-decoration: none;
 	padding: 5px 20px;
-	font-family: "Trebuchet MS Bold";
+	font-family: "Roboto";
 	border-radius: 5px;
 }
 
