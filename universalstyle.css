@@ -26,7 +26,6 @@
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Roboto";
-	border-radius: 5px;
 }
 
 .main-nav li a:hover {
@@ -65,4 +64,22 @@ p{
 	font-style: italic;
 	margin-top: 50px;
 
+}
+
+.footer {
+
+	background-color: black;
+	color: white;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+	font-style: "trebuchet MS Bold";
+	font-size: 75px;
+}
+
+.footlist{
+
+	
 }
