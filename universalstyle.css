@@ -57,3 +57,12 @@ p{
 
 	font-family: "Roboto";
 }
+
+.review {
+
+	color: gray;
+	font-size:25px;
+	font-style: italic;
+	margin-top: 50px;
+
+}
