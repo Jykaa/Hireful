@@ -32,3 +32,10 @@ header {
 	font-family: "Trebuchet MS Bold";
 	padding: 10px;
 }
+
+#signupimage {
+
+	margin-top: 50px;
+	height: 75%;
+	width: 50%;
+}

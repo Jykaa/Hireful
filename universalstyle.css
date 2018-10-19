@@ -1,10 +1,11 @@
-.row {
 
+.row {
 	/*This will move tool bar to left of screen
 	/*position: fixed;*/
 
 	background-color: white;
 	box-shadow: 5px 5px 3px #888888;
+
 }
 
 .main-nav {
@@ -26,6 +27,7 @@
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Roboto";
+
 }
 
 .main-nav li a:hover {
@@ -36,6 +38,7 @@
 
 	height: 60px;
 	width: 60px;
+
 }
 
 h2 {
@@ -43,6 +46,7 @@ h2 {
 	font-family: "Roboto";
 	font-size: 60px;
 	color: black;
+
 }
 
 h3 {
@@ -50,6 +54,7 @@ h3 {
 	font-family: "Roboto";
 	color: #8f8f8f;
 	font-size:40px;
+
 }
 
 p{
@@ -77,9 +82,15 @@ p{
 	text-align: center;
 	font-style: "trebuchet MS Bold";
 	font-size: 75px;
+
 }
+
+
 
 .footlist{
 
+
+
 	
+
 }
