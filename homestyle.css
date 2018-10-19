@@ -22,3 +22,13 @@ header {
 	margin-top:100px;
 	margin-bottom:100px;
 }
+
+#signup {
+
+	text-decoration: none;
+	background-color:lightgray;
+	color: white;
+	font-size: 40px;
+	font-family: "Trebuchet MS Bold";
+	padding: 10px;
+}
