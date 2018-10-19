@@ -11,3 +11,14 @@ header {
 	background-size: cover;
 	background-position: center;
 }
+
+.content{
+
+	text-align: center;
+}
+
+.homehead{
+
+	margin-top:100px;
+	margin-bottom:100px;
+}
