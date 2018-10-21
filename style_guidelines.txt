@@ -1,0 +1,27 @@
+Style guidelines:
+  There will be unique styles for each page on the website. Inlcuded in the mockups folder is the rough design and style of each page.
+Universal style:
+  background colors: black and white
+  Header font: Roboto
+  footer font: trebuchet MS Bold
+Home Style:
+	background color:lightgray
+	text color: white
+	font: Trebuchet MS Bold
+About Style:
+  background colour: light grey
+  text colours: Black and white  
+FAQ Style:
+  background colour: light grey
+Contact us Style:
+  color: #555555
+Employers Style:
+  background colour: light grey
+  text colours: Black and white
+Membership Style:
+  background colour: light grey
+  Text colours: White and black
+  membership colours: bronze, silver and gold
+Login/Sign up Style:
+  background colour: light grey
+  text colours: b;ack and white
