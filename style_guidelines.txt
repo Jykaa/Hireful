@@ -1,3 +1,5 @@
+Overall Look and Feel of Hireful:
+  The overall look and feel of Hireful should be catchy and proffesional. The website should be easy gentle for the user.
 Style guidelines:
   There will be unique styles for each page on the website. Inlcuded in the mockups folder is the rough design and style of each page.
 Universal style:
@@ -5,13 +7,13 @@ Universal style:
   Header font: Roboto
   footer font: trebuchet MS Bold
 Home Style:
-	background color for taskbar:lightgray
-	background color: white
-	text color for taskbar: white
-	text color for body: black
-	text color for reviews: gray
-	reviews will be italic
-	font: Trebuchet MS Bold
+  background color for taskbar:lightgray
+  background color: white
+  text color for taskbar: white
+  text color for body: black
+  text color for reviews: gray
+  reviews will be italic
+  font: Trebuchet MS Bold
 About Style:
   background colour: light grey
   text colours: Black and white  
