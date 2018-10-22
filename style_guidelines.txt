@@ -28,4 +28,4 @@ Membership Style:
   membership colours: bronze, silver and gold
 Login/Sign up Style:
   background colour: light grey
-  text colours: b;ack and white
+  text colours: black and white
