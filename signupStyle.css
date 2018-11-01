@@ -4,8 +4,7 @@ body {
 }
 
 form {
-
-    border: 3px solid #f1f1f1;
+    
     height: 500px;
     width: 500px;
     margin-left: 500px ;
@@ -36,13 +35,8 @@ button:hover {
 }
 
 .imgcontainer {
-    text-align: center;
+    text-align:center;
     margin: 24px 0 12px 0;
-}
-
-img.avatar {
-    width: 40%;
-    border-radius: 50%;
 }
 
 .container {    
