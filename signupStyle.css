@@ -66,8 +66,12 @@ span.psw {
 }
 .login
 {
+	padding: 30px;
     float: center;
-    background-image: url("backgroundImages/signUpPageBacgkround.PNG");
-    height: 1000px;
-    width: 500px;
+    height: 50%;
+    width: 50%;
+}
+.pageBG
+{
+	background-image: url("backgroundImages/signUpPageBacgkground.JPG");
 }
