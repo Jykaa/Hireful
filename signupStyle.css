@@ -1,10 +1,10 @@
 body {
 
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url("backgroundImages/signUpPagebacgkground.JPG");
 }
-
 form {
-    
+
     height: 500px;
     width: 500px;
     margin-left: 500px ;
@@ -71,4 +71,10 @@ img {
 .pageBG
 {
 	background-image: url("backgroundImages/signUpPageBacgkground.JPG");
+}
+
+h1 {
+
+    text-align: center;
+    color: white;
 }
