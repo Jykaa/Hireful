@@ -1,7 +1,6 @@
 *{
 
 
-
 	padding: 0;
 
 	margin: 0;
@@ -19,5 +18,33 @@ header {
 	background-size: cover;
 
 	background-position: center;
+
+}
+
+
+h2, h3, p{
+
+    text-align: center;
+
+
+
+}
+p{
+	width:60%;
+	margin-left: 290px;
+	line-height: 24px;
+	
+	
+}
+h3{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	
+}
+#info{
+
+	padding-top: 10px;
+
+	margin-bottom: 35px;
 
 }
