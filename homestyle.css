@@ -28,11 +28,16 @@ header {
 	text-decoration: none;
 	background-color:lightgray;
 	color: white;
+	border-radius: 20px;
 	font-size: 40px;
 	font-family: "Trebuchet MS Bold";
 	padding: 10px;
 }
 
+#signup:hover {
+
+	box-shadow: 0 5px 15px #123456;
+}
 #signupimage {
 
 	margin-top: 50px;
