@@ -60,6 +60,7 @@ h2 {
 	font-family: "Roboto";
 	font-size: 60px;
 	color: black;
+	text-align: center;
 
 }
 
@@ -68,10 +69,12 @@ h3 {
 	font-family: "Roboto";
 	color: #8f8f8f;
 	font-size:40px;
+	text-align:center;
 
 }
 
 p{
 
 	font-family: "Roboto";
+	text-align:center;
 }
