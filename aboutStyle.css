@@ -21,7 +21,6 @@ header {
 
 }
 
-
 h2, h3, p{
 
     text-align: center;
@@ -30,6 +29,7 @@ h2, h3, p{
 
 }
 p{
+	color = "blue";
 	width:60%;
 	margin-left: 290px;
 	line-height: 24px;
@@ -37,6 +37,7 @@ p{
 	
 }
 h3{
+	background-color:"blue";
 	margin-top: 25px;
 	margin-bottom: 25px;
 	
