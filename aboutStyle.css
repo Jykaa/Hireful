@@ -1,24 +1,16 @@
 *{
 
-
 	padding: 0;
-
 	margin: 0;
-
 }
-
 
 
 header {
 
 	background-image: url("backgroundImages/aboutPageBackground.PNG");
-
 	height: 100vh;
-
 	background-size: cover;
-
 	background-position: center;
-
 }
 
 
@@ -48,10 +40,8 @@ p{
 	text-align: center;
 	padding: 25px 200px 0px 200px;
 }
+
 #info{
-
 	padding-top: 10px;
-
 	margin-bottom: 35px;
-
 }
