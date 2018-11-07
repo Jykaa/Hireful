@@ -22,24 +22,28 @@ header {
 }
 
 
-h2, h3, p{
+h2 {
 
-    text-align: center;
-
-
+	font-family: "Roboto";
+	font-size: 60px;
+	color: black;
+	text-align: center;
 
 }
+
+h3 {
+
+	font-family: "Roboto";
+	color: #8f8f8f;
+	font-size:40px;
+	text-align: center;
+
+}
+
 p{
-	width:60%;
-	margin-left: 290px;
-	line-height: 24px;
-	
-	
-}
-h3{
-	margin-top: 25px;
-	margin-bottom: 25px;
-	
+
+	font-family: "Roboto";
+	text-align: center;
 }
 #info{
 
