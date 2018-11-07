@@ -23,20 +23,19 @@ header {
 	margin-bottom:100px;
 }
 
-#signup {
+.contentbutton {
 
 	text-decoration: none;
-	background-color:lightgray;
-	color: white;
-	border-radius: 20px;
+	border: 2px solid black;
+	color: black;
 	font-size: 40px;
-	font-family: "Trebuchet MS Bold";
+	font-family: "Roboto";
 	padding: 10px;
 }
 
-#signup:hover {
+.contentbutton:hover {
 
-	box-shadow: 0 5px 15px #123456;
+	box-shadow: 0 5px 5px #888888;
 }
 #signupimage {
 
@@ -44,3 +43,4 @@ header {
 	height: 75%;
 	width: 45%;
 }
+
