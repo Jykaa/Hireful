@@ -32,6 +32,8 @@
 
 .main-nav li a:hover {
 
+	color: #999999;
+
 }
 
 .logo {
@@ -68,4 +70,10 @@
 	color: white;
 	text-decoration: none;
 	font-family: "Roboto";
+}
+
+.footlist li a:hover {
+
+	color: #999999;
+
 }
