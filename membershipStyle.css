@@ -52,7 +52,7 @@ p{
 
 .table {
 
-	padding: 25px 100px 100px 100px;
+	padding: 150px 100px 150px 100px;
 }
 
 .table table{
@@ -74,4 +74,10 @@ p{
 	font-weight: normal;
 	font-family: Roboto;
 	font-size: 25px;
+}
+
+hr {
+
+	margin-left: 200px;
+	margin-right:200px;
 }
