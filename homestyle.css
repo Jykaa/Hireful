@@ -45,6 +45,16 @@ body {
 	width: 30%;
 }
 
+.review {
+
+	color: gray;
+	font-size:25px;
+	font-style: italic;
+	padding: 25px;
+	color: #EEEEF1;
+
+}
+
 h2 {
 
 	font-family: "Roboto";
