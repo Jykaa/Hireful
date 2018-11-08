@@ -12,6 +12,10 @@ header {
 	background-position: center;
 }
 
+body{
+
+	background-color: #3E3F4D;
+}
 h2 {
 
 	color: red;
@@ -37,6 +41,7 @@ p{
 	font-family: "Roboto";
 	text-align: center;
 	font-size: 20px;
+	color:#EEEEF1;
 }
 
 .p2 {
@@ -47,6 +52,7 @@ p{
 	font-size: 20px;
 	padding: 5px 0px 50px 0px;
 	font-family: "Roboto";
+	color:#EEEEF1;
 
 }
 
@@ -66,6 +72,7 @@ p{
 .table tr, th {
 
 	border-bottom: 1px solid #dddddd;
+	color:#EEEEF1;
 }
 
 .table th{
