@@ -29,7 +29,7 @@ body {
 	color:#EEEEF1;
 	font-size: 25px;
 	font-family: "Roboto";
-	padding: 10px;
+	padding: 5px;
 }
 
 .contentbutton:hover {
@@ -41,15 +41,15 @@ body {
 #signupimage {
 
 	margin-top: 50px;
-	height: 75%;
-	width: 45%;
+	height: 50%;
+	width: 30%;
 }
 
 h2 {
 
 	font-family: "Roboto";
 	font-size: 60px;
-	padding: 50px;
+	padding: 25px 50px 0px 50px;
 
 }
 
@@ -66,3 +66,8 @@ p{
 	font-family: "Roboto";
 }
 
+hr {
+
+	margin-right: 200px;
+	margin-left: 200px;
+}
