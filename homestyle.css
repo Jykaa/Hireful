@@ -48,7 +48,7 @@ body {
 .review {
 
 	color: gray;
-	font-size:25px;
+	font-size:20px;
 	font-style: italic;
 	padding: 25px;
 	color: #EEEEF1;
@@ -59,7 +59,7 @@ h2 {
 
 	font-family: "Roboto";
 	font-size: 60px;
-	padding: 25px 50px 0px 50px;
+	padding: 50px 50px 0px 50px;
 
 }
 
@@ -68,12 +68,16 @@ h3 {
 	font-family: "Roboto";
 	color: #8f8f8f;
 	font-size:40px;
+	padding: 25px 50px 0px 50px;
 
 }
 
 p{
 
 	font-family: "Roboto";
+	color: #EEEEF1;
+	font-size: 20px;
+	padding: 0px 0px 25px 0px;
 }
 
 hr {
