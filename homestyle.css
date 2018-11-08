@@ -29,6 +29,7 @@ body {
 	color:#EEEEF1;
 	font-size: 25px;
 	font-family: "Roboto";
+	font-weight: normal;
 	padding: 5px;
 }
 
@@ -75,6 +76,7 @@ h3 {
 p{
 
 	font-family: "Roboto";
+	font-weight: normal;
 	color: #EEEEF1;
 	font-size: 20px;
 	padding: 0px 0px 25px 0px;
