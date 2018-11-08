@@ -12,6 +12,11 @@ header {
 	background-position: center;
 }
 
+body {
+
+	background-color: #323641;
+}
+
 .picture
 {
 	float: left;
