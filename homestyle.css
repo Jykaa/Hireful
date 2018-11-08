@@ -14,7 +14,7 @@ header {
 
 body {
 
-	background-color: #323641;
+	background-color: #2e2e2e;
 }
 
 .content{
@@ -22,26 +22,22 @@ body {
 	text-align: center;
 }
 
-.homehead{
-
-	margin-top:100px;
-	margin-bottom:100px;
-}
-
 .contentbutton {
 
 	text-decoration: none;
-	border: 2px solid black;
-	color: black;
-	font-size: 40px;
+	border: 2px solid #EEEEF1;
+	color:#EEEEF1;
+	font-size: 25px;
 	font-family: "Roboto";
 	padding: 10px;
 }
 
 .contentbutton:hover {
 
-	box-shadow: 0 5px 5px #888888;
+	color: #999999;
+	border: 2px solid #999999;
 }
+
 #signupimage {
 
 	margin-top: 50px;
@@ -53,7 +49,7 @@ h2 {
 
 	font-family: "Roboto";
 	font-size: 60px;
-	color: black;
+	padding: 50px;
 
 }
 
