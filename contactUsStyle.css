@@ -84,6 +84,7 @@ h2 {
 	font-size: 60px;
 	color: #ff3737;
 	text-align: center;
+	padding-top: 50px;
 
 }
 
@@ -93,6 +94,7 @@ h3 {
 	color: #ff3737;
 	font-size:40px;
 	text-align:center;
+	padding-top: 50px;
 
 }
 
@@ -100,7 +102,6 @@ p{
 
 	font-family: "Roboto";
 	text-align:center;
-	padding: 5px;
 	font-size: 20px;
 	color:#EEEEF1;
 }
