@@ -40,7 +40,7 @@ body {
 
 #signupimage {
 
-	margin-top: 50px;
+	margin-top: 25px;
 	height: 50%;
 	width: 30%;
 }
@@ -48,10 +48,11 @@ body {
 .review {
 
 	color: gray;
-	font-size:25px;
+	font-size:20px;
 	font-style: italic;
-	padding: 25px;
 	color: #EEEEF1;
+	padding-top: 20px;
+	padding-bottom: 5px ;
 
 }
 
@@ -59,7 +60,8 @@ h2 {
 
 	font-family: "Roboto";
 	font-size: 60px;
-	padding: 25px 50px 0px 50px;
+	padding-top: 50px;
+	padding-bottom: 0px;
 
 }
 
@@ -68,12 +70,16 @@ h3 {
 	font-family: "Roboto";
 	color: #8f8f8f;
 	font-size:40px;
-
+a
 }
 
 p{
 
 	font-family: "Roboto";
+	color: #EEEEF1;
+	font-size: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 hr {
